@@ -3,15 +3,15 @@ Filtre, opamp ve bangap için istenen semboller için "sembol.pdf" dokümanına 
 "takim_adi_DTR" klasör ismi Türkçe karakter içermemelidir. 
 
 Bu dosya içinde yapılan tasarımların şematik ismi aşağıdaki gibi belirtilmelidir.
-Aşğıda belirtilen tasarımlar aşağıdaki gibi isimlendirilmelidir. 
-Eklenenen diğer tasarımlar istenildiği gibi isimlendirilebilir.
+Aşağıda belirtilen tasarımlar aşağıdaki gibi isimlendirilmelidir. 
+Eklenen diğer tasarımlar istenildiği gibi isimlendirilebilir.
 
-Tasarım		Şematik Adı
+Tasarım		Şematik Adı	
 
 inverter 		inv.sch
-filtre			filtre.sch			
+filtre			filtre.sch
 opamp			opamp.sch
 bandgap			bandgap.sch
 .
 .
-
+.
