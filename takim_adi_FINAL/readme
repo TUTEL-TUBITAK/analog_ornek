@@ -5,12 +5,16 @@ Filtre, opamp ve bangap için istenen semboller için "sembol.pdf" dokümanına 
 "takim_adi_FINAL" klasör ismi Türkçe karakter içermemelidir. 
 
 Bu dosya içinde yapılan tasarımın şematik ve layout ismi aşağıdaki gibi belirtilmelidir.
+Aşağıda belirtilen tasarımlar aşağıdaki gibi isimlendirilmelidir. 
+Eklenen diğer tasarımlar istenildiği gibi isimlendirilebilir.
 
 Tasarım		Şematik Adı		Layout Adı
 
-inverter 		inv.sch		inv.mag
-filtre			....			....
-opamp			....			....
+inverter 		inv.sch		inv.mag (Örnek için yazılmıştır, yüklenen repo da bulunmasına gerek yoktur)
+filtre			filtre.sch			filtre.mag
+opamp			opamp.sch			opamp.mag
+bandgap			bandgap.sch			bandgap.mag
+.
 .
 .
 
