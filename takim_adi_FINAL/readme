@@ -1,0 +1,16 @@
+Repository Settings sekmesinden Collaborators olarak tutel-tubitak kullanıcısı eklenmelidir.
+
+Filtre, opamp ve bangap için istenen semboller için "sembol.pdf" dokümanına bakılabilir. 
+
+"takim_adi_FINAL" klasör ismi Türkçe karakter içermemelidir. 
+
+Bu dosya içinde yapılan tasarımın şematik ve layout ismi aşağıdaki gibi belirtilmelidir.
+
+Tasarım		Şematik Adı		Layout Adı
+
+inverter 		inv.sch		inv.mag
+filtre			....			....
+opamp			....			....
+.
+.
+
