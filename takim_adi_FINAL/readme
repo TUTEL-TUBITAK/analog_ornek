@@ -10,7 +10,7 @@ Eklenen diğer tasarımlar istenildiği gibi isimlendirilebilir.
 
 Tasarım			Şematik Adı			Layout Adı
 
-inverter 		inv.sch				inv.mag (Örnek için yazılmıştır, yüklenen repo da bulunmasına gerek yoktur)
+inverter 		inv.sch				inv.mag (Örnek için yazılmıştır, yüklenen repoda bulunmasına gerek yoktur)
 filtre			filtre.sch			filtre.mag
 opamp			opamp.sch			opamp.mag
 bandgap			bandgap.sch			bandgap.mag
