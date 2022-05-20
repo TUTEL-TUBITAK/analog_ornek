@@ -8,7 +8,7 @@ Eklenen diğer tasarımlar istenildiği gibi isimlendirilebilir.
 
 Tasarım			Şematik Adı	
 
-inverter 		inv.sch
+inverter 		inv.sch (Örnek için yazılmıştır, yüklenen repoda bulunmasına gerek yoktur)
 filtre			filtre.sch
 opamp			opamp.sch
 bandgap			bandgap.sch
